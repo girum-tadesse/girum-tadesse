@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girum-teshome
-- 👀 I’m a Data Analyst Skilled in SQL, Excel, Tableau, and Pyhton...
+- 👀 I’m a Data Analyst Skilled in SQL, Excel, Tableau, and Pyhton
 
 
 
